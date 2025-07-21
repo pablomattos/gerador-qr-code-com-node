@@ -24,7 +24,7 @@
       * Localize a pasta onde foi clonada o projeto
       * Digite: npm install  (para instalar as depedências) 
       * Em seguida localize a pasta src, nela contém o arquivo "index.js"
-      * Para iniciar o jogo digite: "node index.js"
+      * Para rodar o script start digite: "npm run start"
 
 
 ## 🛠️ Construído com
